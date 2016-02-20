@@ -354,9 +354,6 @@ button{
 	margin:0 0 0 5px}
 /* = Icons
 -------------------------------------------------------------- */
-.icon-sm{
-	font-size:18px!important;
-}
 .icon-lg{
 	font-size:60px!important;
 }
@@ -449,7 +446,7 @@ iframe{
 /* Bloc image backgrounds */
 
 .bg-Blore-01-2011--7539{
-	background-image:url('img/Blore_01-2011____-7539.jpg');
+	background-image:url("img/Blore_01-2011____-7539.jpg");
 }
 
 
